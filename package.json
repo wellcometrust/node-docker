@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wellcometrust/node-docker/issues"
   },
-  "homepage": "https://github.com/wellcometrust/node-docker#readme"
+  "homepage": "https://github.com/wellcometrust/node-docker#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
